@@ -19,7 +19,7 @@ export const Header = () => {
       <div className="containerList">
         <Link
           style={{
-            color: selectedLink === "home" ? "#0061A5" : "white",
+            color: selectedLink === "home" ? "#73c5ff" : "white",
             fontFamily: "Arial",
             fontWeight: "bolder",
             fontSize: "16px",
@@ -35,7 +35,7 @@ export const Header = () => {
         </Link>
         <Link
           style={{
-            color: selectedLink === "services" ? "#0061A5" : "white",
+            color: selectedLink === "services" ? "#73c5ff" : "white",
             fontFamily: "Arial",
             fontWeight: "bolder",
             fontSize: "16px",
@@ -51,7 +51,7 @@ export const Header = () => {
         </Link>
         <Link
           style={{
-            color: selectedLink === "about" ? "#0061A5" : "white",
+            color: selectedLink === "about" ? "#73c5ff" : "white",
             fontFamily: "Arial",
             fontWeight: "bolder",
             fontSize: "16px",
@@ -67,7 +67,7 @@ export const Header = () => {
         </Link>
         <Link
           style={{
-            color: selectedLink === "contact" ? "#0061A5" : "white",
+            color: selectedLink === "contact" ? "#73c5ff" : "white",
             fontFamily: "Arial",
             fontWeight: "bolder",
             fontSize: "16px",

@@ -8,6 +8,7 @@ export const textService = [
       "Análise de Dados e Business Intelligence: Auxilia sua empresas na coleta, análise e interpretação de dados para tomar decisões mais embasadas e estratégicas.",
     textServiceFour:
       "Avaliação e Planejamento: Realiza uma análise abrangente dos sistemas existentes, processos de negócio e infraestrutura de TI para identificar áreas de melhoria e desenvolver um plano estratégico para implementar mudanças em sua empresa.",
-    textServiceFive: "Fazer o Quinto Serviço Aqui.",
+    textServiceFive:
+      "Proteja sua empresa contra ameaças cibernéticas com nosso serviço de Teste de Intrusão. Nossos especialistas em segurança avaliarão sua infraestrutura, identificando vulnerabilidades e simulando ataques para garantir a robustez dos seus sistemas. ",
   },
 ];
