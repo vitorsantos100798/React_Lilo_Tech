@@ -16,7 +16,7 @@ export const CardService = ({ image, text, position }: PropsService) => {
               color: "white",
               fontFamily: "Arial",
               fontWeight: "bold",
-              fontSize: 28,
+              fontSize: 24,
               marginLeft: 12,
             }}
           >
@@ -30,7 +30,7 @@ export const CardService = ({ image, text, position }: PropsService) => {
               color: "white",
               fontFamily: "Arial",
               fontWeight: "bold",
-              fontSize: 28,
+              fontSize: 24,
             }}
           >
             {text}
