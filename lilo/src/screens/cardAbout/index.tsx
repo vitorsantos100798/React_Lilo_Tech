@@ -11,8 +11,8 @@ export const CardAbout = () => {
             color: "white",
             fontFamily: "Arial",
             fontWeight: "bold",
-            fontSize: 32,
-            marginLeft: 12,
+            fontSize: 24,
+            marginRight: 40,
           }}
         >
           A Lilo Tech é uma consultoria em TI sediada em Presidente Prudente,
