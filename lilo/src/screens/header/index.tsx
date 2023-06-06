@@ -23,6 +23,7 @@ export const Header = () => {
             fontFamily: "Arial",
             fontWeight: "bolder",
             fontSize: "16px",
+            cursor: "pointer",
           }}
           to="main"
           spy={true}
@@ -39,6 +40,7 @@ export const Header = () => {
             fontFamily: "Arial",
             fontWeight: "bolder",
             fontSize: "16px",
+            cursor: "pointer",
           }}
           to="services"
           spy={true}
@@ -55,6 +57,7 @@ export const Header = () => {
             fontFamily: "Arial",
             fontWeight: "bolder",
             fontSize: "16px",
+            cursor: "pointer",
           }}
           to="about"
           spy={true}
@@ -71,6 +74,7 @@ export const Header = () => {
             fontFamily: "Arial",
             fontWeight: "bolder",
             fontSize: "16px",
+            cursor: "pointer",
           }}
           to="contact"
           spy={true}

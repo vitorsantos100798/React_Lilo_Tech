@@ -6,15 +6,7 @@ export const CardAbout = () => {
     <>
       <div className="containerCardAbout">
         <img src={person} />
-        <p
-          style={{
-            color: "white",
-            fontFamily: "Arial",
-            fontWeight: "bold",
-            fontSize: 24,
-            marginRight: 40,
-          }}
-        >
+        <p className="textAboutLilo">
           A Lilo Tech é uma consultoria em TI sediada em Presidente Prudente,
           inaugurada em 2023. Nosso principal objetivo é fornecer soluções
           tecnológicas inovadoras e eficientes para empresas de todos os
