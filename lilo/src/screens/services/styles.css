@@ -1,3 +1,41 @@
 .line {
   border-color: rgb(0, 0, 0);
 }
+.containerOption {
+  width: "100%";
+  height: 5rem;
+  margin-top: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buttonBlue{
+  margin-left: 5rem;
+  width: 15rem;
+  height: 4rem;
+  border-radius: 2rem;
+  border: none;
+  color: white;
+  background-color:  #0061A5;
+  font-family: "Arial";
+  font-weight: bold;
+}
+.buttonBlue:hover {
+  transform: scale(1.1);
+  transition: all 0.5s;
+}
+.buttonWhite:hover {
+  transform: scale(1.1);
+  transition: all 0.5s;
+}
+.buttonWhite{
+  margin-left: 5rem;
+  width: 15rem;
+  height: 4rem;
+  border-radius: 2rem;
+  border: none;
+  color: #0061A5;
+  background-color:  #ffffff;
+  font-family: "Arial";
+  font-weight: bold;
+}

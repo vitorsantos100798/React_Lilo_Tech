@@ -45,7 +45,7 @@ export const Header = () => {
           to="services"
           spy={true}
           smooth={true}
-          offset={-70}
+          offset={50}
           duration={500}
           onClick={() => handleLinkClick("services")}
         >
