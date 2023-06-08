@@ -17,9 +17,9 @@ const App = () => {
       <Element name="services">
         <Services />
       </Element>
-      <Element name="about">
+      {/* <Element name="about">
         <CardAbout />
-      </Element>
+      </Element> */}
       <Element name="contact">
         <Contact />
       </Element>
